@@ -28,6 +28,8 @@
 * Zookeeper （暂未开始）
 * Zureka （暂未开始）
 * double （暂未开始）
+* FF4J （未开始）
+* Togglz （未开始）
 
 ## python方向
 >负责人：[@Gu-f](https://github.com/Gu-f)  
