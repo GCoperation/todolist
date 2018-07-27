@@ -17,6 +17,7 @@
 >负责人：[暂无](#)
 * MySQL源码 （未开始）
 * boost源码 （未开始）
+* redis源码 （正在翻译，一人）
 
 ## java方向  
 > 负责人：[@jhin](https://github.com/folTAN)
