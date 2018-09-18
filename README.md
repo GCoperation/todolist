@@ -17,13 +17,13 @@
 >负责人：[暂无](#)
 * MySQL源码 （未开始）
 * boost源码 （未开始）
-* redis源码 （正在翻译，一人）
+* redis源码 （正在翻译，2人）
 
 ## java方向  
 > 负责人：[@jhin](https://github.com/folTAN)
 * jdk8源码 （正在做，比重偏小）
 * jdk11源码 （等待正式版）
-* Tomcat9源码 （目前的主要工作）
+* Tomcat9源码 （暂停，为redis项目让路）
 * Spring Farmwork （暂未开始）
 * Spring Boot （暂未开始）
 * Zookeeper （暂未开始）
