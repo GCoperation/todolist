@@ -13,10 +13,10 @@
 ## 信息安全  
 >负责人：[@yuluo](https://github.com/yuluo-zy)
 
-## c/cpp方向  
->负责人：[暂无](#)
-* MySQL源码 （未开始）
-* boost源码 （未开始）
+## 数据库方向  
+>负责人：[@jhin](https://github.com/folTAN)
+* PostGreSql源码（未开始）
+* MongoDB源码 （未开始）
 * redis源码 （正在翻译，2人）
 
 ## java方向  
